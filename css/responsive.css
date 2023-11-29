@@ -1,0 +1,221 @@
+@media (max-width: 576px) {
+  
+    .menu-nubank{
+        display: none;
+    }
+
+    .login{
+        display: none;
+    }
+
+    .menu-mobile{
+        display: block;
+        float: right;
+        padding-right: 70px;
+        margin-top: 80px;
+        
+    }
+
+    .imagem {
+        background: url('../img/img/responsivo1.png') no-repeat center center;
+        background-size: cover;
+        height: 1000px;
+        width: 576px;
+    }
+
+    .form{
+        margin-top: 70px;
+        margin-left: 55px ;
+        position: absolute;
+        width: 90%;
+    }
+
+    .imagem h1{
+        margin-left: 45px;
+        white-space: nowrap;
+        font-size: 30px;
+    }
+
+    .imagem h2 {
+        margin-left: 45px;
+        white-space: nowrap;
+        font-size: 18px;
+    }
+
+    .secao2{
+        height: 900px;
+    }
+
+    .cartao h2{
+        margin-top: 50px;
+        margin-left: 45px;
+        font-size: 35px;
+        width: 576px;
+    }
+
+    .cartao h3{
+        margin-left: 45px;
+        font-size: 20px;
+        white-space: nowrap;
+        width: 576px;
+
+    }
+
+    .secao3{
+        height: 1600px;
+        
+    }
+
+    .link2 {
+        margin-left: 50px;
+        font-size: 20px;
+        display: block;
+
+    }
+
+    .img-cartao{
+        clear: both;
+        margin-top: 40px;
+        margin-left: 25px;
+    }
+
+    .cartao-ultra h2{
+        margin-top: 50px;
+        margin-left: 45px;
+        font-size: 35px;
+        width: 576px;
+    }
+
+    .cartao-ultra h3{
+        margin-left: 45px;
+        font-size: 20px;
+        white-space: nowrap;
+        width: 576px;
+
+    }
+
+
+    .violeta{
+        margin-top: 0px;
+        margin-left: 60px;
+        max-width: 576px;
+        max-height: 360px;
+    }
+
+    .nu-cartao h2{
+        margin-top: 50px;
+        margin-left: 45px;
+        font-size: 35px;
+        width: 576px;
+    }
+
+    .nu-cartao h3{
+        margin-left: 45px;
+        font-size: 20px;
+        white-space: nowrap;
+        width: 576px;
+
+    }
+
+   
+
+    .imagem2{
+        background: url('../img/img/responsivo2.png') no-repeat center center;
+        background-size: cover;
+   
+    }
+
+    .imagem3{
+        background: url('../img/img/responsivo3.png') no-repeat center center;
+        background-size: cover;
+   
+    }
+
+    .imagem4{
+        background: url('../img/img/responsivo4.png') no-repeat center center;
+        background-size: cover;
+   
+    }
+
+    .imagem2 h1{
+        font-size: 23px;
+        margin-left: 50px;
+    }
+
+    .imagem2 a{
+        font-size: 14px;
+        margin-left: 50px;
+    }
+
+    .imagem3 h1{
+        font-size: 23px;
+        margin-left: 50px;
+    }
+
+    .imagem3 a{
+        font-size: 14px;
+        margin-left: 50px;
+    }
+
+    .imagem4 h1{
+        font-size: 23px;
+        margin-left: 50px;
+    }
+
+    .imagem4 a{
+        font-size: 14px;
+        margin-left: 50px;
+        
+    }
+
+    .rodape3{
+        height: 350px;
+    }
+
+    
+
+    .info h2{
+    
+       
+        font-size: 12px;
+        margin-left: 12px;
+    }
+
+    .info a{
+        font-size: 10px;
+        margin-left: 15px;
+        display: block ;
+    }
+
+    .info2{
+        margin-top: -60px;
+    }
+
+    .info2 h2 {
+        
+
+        font-size: 12px;
+        margin-left: 30px;
+        
+    }
+
+    .info2 li{
+        margin-left: 30px;
+    }
+
+    .info2 a{
+        font-size: 10px;
+    }
+
+    .info2 img{
+        margin-right: 70px;
+    }
+
+    .imgrodape {
+        margin-left: 50px;
+        margin-top: 10px;
+    }
+
+}
+
+

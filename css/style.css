@@ -1,0 +1,477 @@
+body, h1, h2, h3, p, ul{
+
+    padding: 0;
+    margin: 0;
+}
+
+.menu{
+    width: 100%;
+    height: 1px;
+    background-color: white;
+    padding: 0px 10px 50px 50px;
+    position: fixed;
+}
+
+.logo{
+    display: block;
+    float: left;
+    margin-top: 15px;
+}
+
+.menu-nubank{
+    max-width: 100%;
+    float: left;
+
+}
+
+.menu-nubank li{
+    margin-top: 15px;
+    display: inline-block;
+}
+
+.menu-nubank a{
+    display: block;
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    margin-left: 33px;
+    font-family: 'Cabin' , sans-serif;
+    font-weight: bold;
+}
+
+.login li {
+ 
+    display: inline-block;
+    margin-top: 15px;
+    font-family: 'Cabin' , sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    padding-right: 70px ;
+}
+
+.login{
+
+    float: right;
+}
+
+.login a {
+    text-decoration: none;
+    color: #820ad1;
+}
+
+/*Inicio da imagem após o topo*/
+
+.imagem{
+    background: url('../img/img/img1.png') no-repeat center center;
+    background-size: cover;
+    height: 600px;
+    
+}
+
+.imagem h1 {
+    padding: 260px 0px 0px 0px;
+    margin-left: 170px;
+    font-family: 'Nanum Gothic', sans-serif;
+    color: white;
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+
+.imagem h2{
+    margin-left: 170px;
+    font-family: 'Cabin', sans-serif;
+    color: white;
+    font-size: 25px;
+    
+}
+
+.form{
+    box-sizing: border-box;
+    background-color: white;
+    max-width: 300px;
+    height: 300px;
+    float: right;
+    border-radius: 8px;
+    text-align: left;
+    padding: 20px;
+    margin-top: -190px;
+    margin-right: 40px;
+    
+}
+
+.form h3{
+    color: black;
+    font-size: 22px;
+    margin-bottom: 80px;
+    font-family: 'Cabin', sans-serif;
+}
+
+
+.name{
+    color: #585858;
+    font-size: 15px;
+    font-family: 'Cabin', sans-serif;
+}
+
+.bto{
+    background-color: #820ad1;
+    display: flex;
+    justify-content: space-between;
+    border: 0;
+    align-items:center;
+    color: white;
+    width: 100%;
+    height: 30px;
+    border-radius: 15px;
+    margin-top: 10px;
+    padding: 20px;
+    font-family: 'Cabin', sans-serif;
+    font-weight: bold;
+    font-size: 17px; 
+    cursor: pointer;
+    
+}
+
+.campo{
+    width: 100%;
+    border-left: 0 ;
+    border-right: 0;
+    border-top: 0;
+}
+
+
+
+/*Final da imagem apos o topo*/
+
+/*Inicio Seção 2*/
+
+.secao2{
+    height: 800px;
+    background-color: white;
+
+}
+
+.secao2 h2{
+    text-align: left;
+    font-family: 'Cabin', sans-serif;
+    font-size: 40px;
+    color: #820ad1;
+    margin-left: 150px;
+    margin-top: 150px;
+}
+
+.secao2 h3{
+    text-align: left;
+    font-family: 'Cabin', sans-serif;
+    font-size: 25px;
+    margin-left: 150px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+}
+
+.secao2 a{
+
+    text-decoration: none;
+    
+}
+
+.link2{
+    text-align: left;
+    font-family: 'Cabin';
+    font-size: 23px;
+    margin-left: 152px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+.img-cartao{
+    float: left;
+    width: 55%; 
+    margin-top: 150px;
+}
+
+.cartao{
+    float: left;
+    width: 45%;
+   
+}
+
+
+
+/*Final Seção 2*/
+
+/*Inicio seção 3*/
+
+.secao3{
+    background: #f5f5f5;
+    height: 1400px;
+}
+
+.secao3 a{
+    text-decoration: none;
+}
+
+.secao3 h2{
+    text-align: left;
+    font-family: 'Cabin', sans-serif;
+    font-size: 40px;
+    color: #820ad1;
+    margin-left: 150px;
+    margin-top: 150px;
+}
+
+.secao3 h3{
+    text-align: left;
+    font-family: 'Cabin', sans-serif;
+    font-size: 25px;
+    margin-left: 150px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+
+}
+
+.link2{
+    text-align: left;
+    font-family: 'Cabin';
+    font-size: 20px;
+    margin-left: 152px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.cartao-ultra{
+    float: left;
+    width: 40%;
+    margin-top: 150px;
+}
+
+.violeta{
+    float: left;
+    margin-top: 150px;
+    margin-left: 180px;
+}
+
+
+
+/*Final seção 3*/
+
+/*Inicio seção 4*/
+
+.imagem2{
+    background: url('../img/img/img5.png') no-repeat center center;
+    background-size: cover;
+    height: 600px;
+}
+
+.imagem2 h1{
+    padding: 200px 0px 0px 0px;
+    margin-left: 200px;
+    color: white;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+.imagem2 a{
+    text-decoration: none;
+    color: white;
+    margin-left: 200px;
+}
+
+.imagem3{
+    background: url('../img/img/img6.png');
+    background-size: cover;
+    height: 600px;
+}
+.imagem3 h1{
+    padding: 200px 0px 0px 0px;
+    margin-left: 200px;
+    color: #f5f5f5;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.imagem3 a{
+    text-decoration: none;
+    color: #f5f5f5;
+    margin-left: 200px;
+
+}
+
+.imagem4 {
+    background: url('../img/img/img7.png');
+    background-size: cover;
+    height: 600px;
+
+}
+
+.imagem4 h1{
+    padding: 200px 0px 0px 0px;
+    margin-left: 200px;
+    color: #f5f5f5;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 30px;
+    margin-bottom: 15px;
+
+}
+
+.imagem4 a{
+    text-decoration: none;
+    color: #f5f5f5;
+    margin-left: 200px;
+}
+/*Final seção 4*/
+
+/*Inico seção 5*/
+
+.info{
+    background-color: black;
+    height: 500px;
+    width: 100%;
+    
+}
+
+.sec-1{
+    width: 23%;
+    float: left;
+}
+.sec-2{
+    width: 23%;
+    float: left;
+}
+.sec-3{
+    width: 23%;
+    float: left;
+}
+.sec-4{
+    width: 23%;
+    float: left;
+}
+
+.sec-1, .sec-2, .sec-3, .sec-4{
+    margin-top: 150px;
+}
+
+.info a {
+    text-decoration: none;
+    list-style: none;
+    color: #f5f5f5;
+    font-family: 'Cabin', sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.info li{
+    padding-left: 8%;
+    list-style: none;
+    margin-bottom: 15px;
+    color: #f5f5f5;
+    font-weight: bold;
+    font-family: 'Cabin', sans-serif;
+
+}
+.info h2{
+    font-family: 'Cabin', sans-serif;
+    font-size: 25px;
+    padding-left: 8%;
+    margin-bottom: 30px;
+    font-weight: bold;
+    color: #f5f5f5;
+}
+
+ a:hover {
+    color: #820ad1;
+}
+
+.info2{
+    background-color: black;
+    height: 600px;
+    width: 100%;
+    
+}
+
+.sec-1{
+    width: 23%;
+    float: left;
+}
+.sec-2{
+    width: 23%;
+    float: left;
+}
+.sec-3{
+    width: 23%;
+    float: left;
+}
+.sec-4{
+    width: 23%;
+    float: left;
+}
+
+.sec-1, .sec-2, .sec-3, .sec-4{
+    margin-top: 150px;
+}
+
+.info2 a {
+    text-decoration: none;
+    list-style: none;
+    color: #f5f5f5;
+    font-family: 'Cabin', sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.info2 li{
+    padding-left: 8%;
+    list-style: none;
+    margin-bottom: 15px;
+    color: #f5f5f5;
+    font-weight: bold;
+    font-family: 'Cabin', sans-serif;
+
+}
+.info2 h2{
+    font-family: 'Cabin', sans-serif;
+    font-size: 25px;
+    padding-left: 8%;
+    margin-bottom: 35px;
+    font-weight: bold;
+    color: #f5f5f5;
+}
+
+ a:hover {
+    color: #820ad1;
+}
+
+.rodape3{
+    width: 100%;
+    height:100px;
+    background-color: black;
+    border-top: solid 1px #191919;
+    border-bottom: solid 1px #191919;
+}
+
+.imgrodape{
+    padding: 30px;
+    float: left;
+}
+
+.rodape3 p{
+
+    font-family: 'Cabin', sans-serif;
+    font-size: 16px;
+    color: #f5f5f5;
+    padding: 30px;
+    float: left;
+}
+
+.redes{
+    float: right;
+    list-style: none;
+    color: white;
+}
+
+.redes li {
+    display: inline-block;
+    padding-right: 30px;
+}
+
